@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import { IntlProvider } from 'react-intl';
 import { IntlProvider as RSIntlProvider, RadioGroup, Radio } from 'rsuite';
 
-import 'rsuite/styles/index.less';
+import 'rsuite/lib/styles/index.less';
 
 import zhCN from 'rsuite/lib/IntlProvider/locales/zh_CN';
 import enUS from 'rsuite/lib/IntlProvider/locales/en_US';
